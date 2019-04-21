@@ -1,5 +1,5 @@
 # webshare
-I just wanted a binary to replace my bash alias:
+I just wanted a binary to replace this bash alias:
 
 ```
 alias webshare='python -c "import SimpleHTTPServer;SimpleHTTPServer.test()"'
